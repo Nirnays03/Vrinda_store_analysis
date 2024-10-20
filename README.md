@@ -1,2 +1,2 @@
 # Vrinda_store_analysis
-interactive dashboard in Excel 
+Interactive dashboard in Excel 
