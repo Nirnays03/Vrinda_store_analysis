@@ -34,12 +34,10 @@ Interactive slicers allow dynamic filtering by region, category, or time.
 
 Helped uncover growth opportunities in underperforming categories.
 
-📷 Dashboard Preview
+📷 Vrinda Store Dashboard Preview
 
 <img width="1289" height="651" alt="image" src="https://github.com/user-attachments/assets/c1b91b28-c27f-488f-9624-b1b2f977c182" />
 
-
-![Vrinda Store Dashboard](dashboard.png)
 
 🚀 How to Use
 
