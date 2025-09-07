@@ -38,7 +38,7 @@ Helped uncover growth opportunities in underperforming categories.
 
 (Attach a screenshot of your dashboard here, e.g. dashboard.png)
 
-![Vrinda Store Dashboard](dashboard.png)
+![Vrinda Store Dashboard]("C:\Users\bhavy\projects\project3.png")
 
 🚀 How to Use
 
