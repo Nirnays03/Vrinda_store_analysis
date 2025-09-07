@@ -65,5 +65,7 @@ Nirnay Singh
 🌐 Portfolio Website
 
 💼 LinkedIn - https://www.linkedin.com/in/nirnaysingh/ 
+
  | Upwork - https://www.upwork.com/freelancers/~01d0f3b67673254ede
+ 
  | Fiverr - https://www.fiverr.com/nirnays03
