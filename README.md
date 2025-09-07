@@ -36,9 +36,10 @@ Helped uncover growth opportunities in underperforming categories.
 
 📷 Dashboard Preview
 
-(Attach a screenshot of your dashboard here, e.g. dashboard.png)
+<img width="1289" height="651" alt="image" src="https://github.com/user-attachments/assets/c1b91b28-c27f-488f-9624-b1b2f977c182" />
 
-![Vrinda Store Dashboard]("C:\Users\bhavy\projects\project3.png")
+
+![Vrinda Store Dashboard](dashboard.png)
 
 🚀 How to Use
 
