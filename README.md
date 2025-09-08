@@ -62,7 +62,7 @@ Nirnay Singh
 
 📧 nirnays99@gmail.com
 
-🌐 Portfolio Website
+🌐 Portfolio Website - https://nirnays03.github.io/Nirnays-portfolio/
 
 💼 LinkedIn - https://www.linkedin.com/in/nirnaysingh/ 
 
